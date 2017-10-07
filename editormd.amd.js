@@ -130,7 +130,7 @@
     
     editormd.title        = editormd.$name = "Editor.md";
     editormd.version      = "1.5.0";
-    editormd.homePage     = "https://pandao.github.io/editor.md/";
+    editormd.homePage     = "https://theghost1980.github.io/editor.md/";
     editormd.classPrefix  = "editormd-";
     
     editormd.toolbarModes = {
@@ -174,7 +174,7 @@
         delay                : 300,            // Delay parse markdown to html, Uint : ms
         autoLoadModules      : true,           // Automatic load dependent module files
         watch                : true,
-        placeholder          : "Enjoy Markdown! coding now...",
+        placeholder          : "Enjoy Markdown! coding now...testing theghost1980",
         gotoLine             : true,
         codeFold             : false,
         autoHeight           : false,
