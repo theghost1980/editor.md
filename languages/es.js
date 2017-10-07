@@ -34,7 +34,7 @@
                 emoji            : "Emoji",
                 "html-entities"  : "Entidades HTML",
                 pagebreak        : "Salto de Página",
-                watch            : "Sin Supervision",
+                watch            : "Sin Supervisión",
                 unwatch          : "Supervisar",
                 preview          : "Vista previa HTML (Presione Shift + ESC para salir)",
                 fullscreen       : "Pantalla completa (ESC para salir)",
